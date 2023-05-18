@@ -50,6 +50,7 @@
 
 ## OUTPUT:
 ![n5](https://github.com/Pavithraramasaamy/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118596964/f013c99b-2dd4-4d4b-ab2b-cc7d39f9577f)
+
 X Axis Assembly:
 
 Smooth Rod : 
@@ -68,12 +69,53 @@ Smooth Rod :
      Motors are responsible for driving the movement of various components, controlling filament feeding, regulating temperature, and achieving precise positioning
 
 ![n8-1](https://github.com/Pavithraramasaamy/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118596964/12133502-b9d0-4bb7-b13b-0067e2ac0303)
+## Y AXIS ASSEMBLY:
+Y-Axis Supporter : 
+        The Y axis on a printer represents movement forward and back. 
 
+Horiz. & Vertical Threaded Rod :
+        Horizontal and vertical threaded rods are crucial components in 3D printers that enable controlled and precise movement along the Z-axis. Whether used for driving the build platform or the print head assembly, they contribute to the stability, accuracy, and repeatability of the 3D printing process..
+
+Pulley : 
+        Pulleys play a crucial role in the motion control, belt tensioning, filament feeding, and overall performance of 3D printers. They enable precise and reliable movement, contributing to the quality and accuracy of the printed objects.
+
+Y-Axis Frame :
+        A well-designed and robust Y-axis frame is crucial for achieving accurate prints, minimizing vibrations, and ensuring the overall performance and reliability of a 3D printer. It provides the foundation for the Y-axis assembly and contributes to the quality and consistency of the printed objects.
+
+Y-Axis Base :
+        The Y-axis base in 3D printing plays a vital role in providing stability, guiding movement, ensuring accurate print bed alignment, and incorporating additional features such as heating elements
 
 ![n3](https://github.com/Pavithraramasaamy/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118596964/740106d5-3555-4a20-b837-a0c239cfd4ba)
+## Z-axis assembly:
+  Z-Axis Rod :
+             The Z-axis rod is a critical component in 3D printing, allowing for controlled vertical movement and precise layering during the printing process. Whether it is a threaded rod or a smooth rod with linear bearings, the Z-axis rod plays a vital role in determining the accuracy and quality of the printed objects
+             
+ Z-Axis Top Cover :
+            The Z-axis top cover in 3D printing serves multiple purposes, including protection, safety, noise reduction, cable management, and aesthetic considerations. It helps maintain a clean and controlled printing environment, enhances safety, and contributes to the overall functionality and user experience of the 3D printer.
+ 	Motor :
+     Motors are responsible for driving the movement of various components, controlling filament feeding, regulating temperature, and achieving precise positioning
 
 ![n9-1](https://github.com/Pavithraramasaamy/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118596964/a7abb0c5-7743-423d-aa37-a90a14b22839)
-
+## COMPLETE ASSEMBLY:
+ Frame :
+         The frame is a fundamental component of a 3D printer, providing structural integrity, stability, and support to the entire printer assembly. A well-designed frame contributes to the printer's overall performance, accuracy, and reliability, ensuring successful 3D printing operations.
+ Y-Axis assembly :
+            The Y-axis assembly is a critical part of a 3D printer, enabling precise movement along the Y-axis and ensuring accurate positioning of the print head or build plate. A well-designed and properly calibrated Y-axis assembly is crucial for achieving high-quality prints with dimensional accuracy and repeatability.
+ Z-Axis Assembly :
+           Proper calibration and alignment of the Z-axis assembly are crucial for achieving accurate layer heights and consistent vertical movement in 3D printing. The Z-axis assembly should be designed to provide smooth, stable, and reliable motion to ensure high-quality prints with precise layering.
+X-Axis Assembly :
+            The proper calibration and alignment of the X-axis assembly are crucial for achieving accurate and consistent horizontal movement in 3D printing. The X-axis assembly should be designed to provide smooth, stable, and reliable motion to ensure high-quality prints with precise detailing along the X-axis.
+SMPS: 
+            SMPS stands for Switched-Mode Power Supply. It is an essential component that provides electrical power to the various components of the 3D printer.
+            
+            
+ LCD:
+          An LCD (Liquid Crystal Display) is a type of screen used in resin-based 3D printers that utilize a technology called LCD-based Masked Stereolithography (MSLA) or Digital Light Processing (DLP).
+          
+Spool Holder:
+           A spool holder is a device or component used to hold the filament spool securely during the printing process.
+Spool:
+           A spool refers to the cylindrical holder or container that holds the filament. Filament spools are commonly used in FDM (Fused Deposition Modeling) 3D printers, where a continuous filament of thermoplastic material is fed into the printer for the printing process
 
 ##![Screenshot (177)](https://github.com/Pavithraramasaamy/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118596964/de2b4407-417f-44d1-8c4b-198fbd7341d6)
 
