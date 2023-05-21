@@ -151,8 +151,8 @@ Spool:
            A spool refers to the cylindrical holder or container that holds the filament. Filament spools are commonly used in FDM (Fused Deposition Modeling) 3D printers, where a continuous filament of thermoplastic material is fed into the printer for the printing process
 
 
-##![Screenshot (177)](https://github.com/Pavithraramasaamy/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118596964/de2b4407-417f-44d1-8c4b-198fbd7341d6)
 
+![Screenshot (177)](https://github.com/Pavithraramasaamy/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118596964/d9259aa2-ce9d-483e-a64a-531d43fef1dd)
 
 
 ### Name: Pavithra R
